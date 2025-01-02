@@ -13,6 +13,7 @@ use_math: true
 블로그를 본격적으로 시작하기에 앞서, 이전에도 블로그를 몇 번 만들어보고 지운 경험을 바탕으로 최대한 다양한 블로그 서비스를 비교하고 선정하기로 했다.
 
 그 결과, 발견한 것이 [네이버 블로그](https://blog.naver.com), [티스토리](https://www.tistory.com), [Github](https://github.com), [Velog](https://velog.io), [Wordpress](https://wordpress.com), [Notion](https://www.notion.com)이고, 필요하다고 생각하는 것들을 아래 표와 같이 정리해 보았다.  
+
 |구분|네이버 블로그|티스토리|Velog|Github|Wordpress|Notion|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |수식 지원<sup>3)</sup>|자체 입력기기|MathJax|MathJax|MathJax|MathJax|TeX|

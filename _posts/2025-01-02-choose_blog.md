@@ -1,5 +1,5 @@
 ---
-title: "블로그를 시작하며... 블로그 선택기"
+title: "블로그를 시작하며..."
 date: 2025-01-02 22:28:05 +0900
 categories: [Github]
 tags: [github, blog]

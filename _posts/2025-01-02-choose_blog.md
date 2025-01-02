@@ -16,15 +16,15 @@ use_math: true
 
 |구분|네이버 블로그|티스토리|Velog|Github|Wordpress|Notion|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|수식 지원<sup>3)</sup>|자체 입력기기|MathJax|MathJax|MathJax|MathJax|TeX|
-|커스터마이징|△|O|X|O|O<sup>2)</sup>|O|
+|수식 지원<sup>1)</sup>|△<sup>2)</sup>|MathJax|MathJax|MathJax|MathJax|TeX|
+|커스터마이징|△|O|X|O|O<sup>3)</sup>|O|
 |구축 난이도|보통|보통|쉬움|어려움|어려움|보통|
-|Google AdSense|X<sup>1)</sup>|O|X|O|△<sup>2)</sup>|O|
-|Google Analytics|X<sup>1)</sup>|O|X|O|△<sup>2)</sup>|O|
+|Google AdSense|X<sup>2)</sup>|O|X|O|O<sup>3)</sup>|O|
+|Google Analytics|X<sup>2)</sup>|O|X|O|O<sup>3)</sup>|O|
 
-1\) 자체 기능 지원  
-2\) 유료 요금제 구독 필요  
-3\) 애드온 사용하는 경우 포함
+1\) 애드온 사용하는 경우 포함  
+2\) 자체 기능 지원  
+3\) 유료 요금제 구독 필요
 
 ### 네이버 블로그  
 우선, 통계를 많이 사용하고 수식을 작성해야 하기에 자체 입력기가 있으나, 수식이 이쁘게 작성되지 않는 네이버 블로그는 가장 먼저 제외되었다. 이것 말고도 일반적으로 사람들이 네이버 블로그를 일상적인 것이나, 홍보, 리뷰 등의 용도로 사용한다는 느낌이 있어 개발을 주제로 하는 블로그로 활용하기에는 어렵다고 생각하였다.

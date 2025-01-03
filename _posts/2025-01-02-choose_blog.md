@@ -1,5 +1,5 @@
 ---
-title: "블로그를 시작하며..."
+title: "개발 블로그 비교 및 선택"
 date: 2025-01-02 22:28:05 +0900
 categories: [Github]
 tags: [github, blog]

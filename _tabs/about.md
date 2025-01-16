@@ -4,11 +4,28 @@ icon: fas fa-info-circle
 order: 4
 ---
 ## Welcome!
-I'm a student majoring in statistics. I haven't decided what I'm going to do yet, but I'm working hard to explore what I'm going to do.
-
+I'm a student majoring in statistics. I haven't decided what I'm going to do yet, but I'm working hard to explore what I'm going to do. I want to experience as many things as I can in my life.
 
 ## Curriculum Vitae
-Some items are not listed for privacy purposes. Last Updated 1/16/2025
+> Some items are not listed for privacy purposes. (Last Updated 1/17/2025)
+{: .prompt-info }
+
+### Skills
+- (Statistical) Programming Language & Tools  
+Python, R, SAS, SPSS, 
+
+- Database  
+MySQL
+
+- Code Editors  
+Visual Studio Code, Google Colab, R Studio, JetBrain Intellij IDEA, Pycharm
+
+- Cooperation Tools  
+Github, Onedrive, Google Drive, Notion
+
+- Others  
+TeX, Adobe Illustrator, Adobe Photoshop, Hancom Office, MS Office
+
 
 ### Training Courses
 <table>

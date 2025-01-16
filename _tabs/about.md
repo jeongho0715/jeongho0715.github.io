@@ -54,11 +54,11 @@ Some items are not listed for privacy purposes. Last Updated 1/16/2025
 <table>
   <tr>
     <td>First Class Amateur Radio Operator<br>Korea Communications Agency</td>
-    <td width="25%">Jan. 2024<br></td>
+    <td width="25%">Jan. 2025<br></td>
   </tr>
   <tr>
     <td>Restricted Operator's Certificate(Land Class)<br>Korea Communications Agency</td>
-    <td width="25%">Jan. 2024<br></td>
+    <td width="25%">Jan. 2025<br></td>
   </tr>
   <tr>
     <td>Data Architecture Semi-Professional<br>Korea Data Agency</td>

@@ -53,6 +53,14 @@ Some items are not listed for privacy purposes. Last Updated 1/16/2025
 ### Certificates
 <table>
   <tr>
+    <td>First Class Amateur Radio Operator<br>Korea Communications Agency</td>
+    <td width="25%">Jan. 2024<br></td>
+  </tr>
+  <tr>
+    <td>Restricted Operator's Certificate(Land Class)<br>Korea Communications Agency</td>
+    <td width="25%">Jan. 2024<br></td>
+  </tr>
+  <tr>
     <td>Data Architecture Semi-Professional<br>Korea Data Agency</td>
     <td width="25%">Oct. 2024<br></td>
   </tr>
@@ -67,6 +75,10 @@ Some items are not listed for privacy purposes. Last Updated 1/16/2025
   <tr>
     <td>Advanced Data Analytics Semi-Professional<br>Korea Data Agency</td>
     <td width="25%">Mar. 2023<br></td>
+  </tr>
+  <tr>
+    <td>Driver’s License 1st Class (Ordinary)<br>Commissioner of Gyeonggi Nambu Provincial Police Agency</td>
+    <td width="25%">Sep. 2021<br></td>
   </tr>
   <tr>
     <td>Graphic Technology Qualification illust Level-I<br>Korea Productivity Center</td>

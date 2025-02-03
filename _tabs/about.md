@@ -107,7 +107,7 @@ TeX, Adobe Illustrator, Adobe Photoshop, Hancom Office, MS Office
   </tr>
   <tr>
     <td>Competency Enhancing Scholarship<br>Chung-Ang University</td>
-    <td>Mar. 2024, Jul. 2022<br></td>
+    <td>Jul. 2022, Mar. 2024<br></td>
   </tr>
   <tr>
     <td>Essay Contest for Application of Student Competency Growth Support System <br>Chung-Ang University</td>

@@ -7,8 +7,6 @@ order: 4
 I'm a student majoring in statistics. I haven't decided what I'm going to do yet, but I'm working hard to explore what I'm going to do. I want to experience as many things as I can in my life.
 
 ## Curriculum Vitae
-> Some items are not listed for privacy purposes. (Last Updated 1/17/2025)
-{: .prompt-info }
 
 ### Skills
 - (Statistical) Programming Language & Tools  
@@ -27,11 +25,19 @@ Github, Onedrive, Google Drive, Notion
 TeX, Adobe Illustrator, Adobe Photoshop, Hancom Office, MS Office
 
 
-### Training Courses
+### Extracurricular Activities
 <table>
+  <tr>
+    <td>Data Analytics Modeling Class(ML1), (ML2)<br>Big Data Analytics Association</td>
+    <td width="25%">Sep. 2024 – Feb. 2025<br></td>
+  </tr>
   <tr>
     <td>Let’s AI 2024<br>Naver Connect Foundation</td>
     <td width="25%">May. 2024 - Jun.2024<br></td>
+  </tr>
+  <tr>
+    <td>Gyeonggi-do Youth Volunteers Program<br>Gyeonggi-do Volunteer Center</td>
+    <td width="25%">Feb. 2024 - Dec. 2024<br></td>
   </tr>
   <tr>
     <td>Forest Big Data Analysis and Utilization Education<br>Korea Forestry Promotion Institute, Forest Big Data Exchange Platform</td>
@@ -55,15 +61,39 @@ TeX, Adobe Illustrator, Adobe Photoshop, Hancom Office, MS Office
   </tr>
 </table>
 
-### Extracurricular Activities
+### Honors and Awards
 <table>
   <tr>
-    <td>Data Analytics Modeling Class(ML1), (ML2)<br>Big Data Analytics Association</td>
-    <td width="25%">Sep. 2024 – Feb. 2025<br></td>
+    <td>Extra-Curricular Mileage Scholarship<br>Chung-Ang University</td>
+    <td width="25%">Jal. 2024<br></td>
   </tr>
   <tr>
-    <td>Gyeonggi-do Youth Volunteers Program<br>Gyeonggi-do Volunteer Center</td>
-    <td width="25%">Feb. 2024 - Dec. 2024<br></td>
+    <td>Commendation of Merit for Security Guidance Visit<br>Republic of Korea Army</td>
+    <td width="25%">Dec. 2023<br>Brigadier General</td>
+  </tr>
+  <tr>
+    <td>Commendation of Merit in Preparation for Security Audit<br>Republic of Korea Army</td>
+    <td width="25%">Apr. 2023<br>Brigadier General</td>
+  </tr>
+  <tr>
+    <td>Competency Enhancing Scholarship<br>Chung-Ang University</td>
+    <td width="25%">Mar. 2024, Jul. 2022<br></td>
+  </tr>
+  <tr>
+    <td>Essay Contest for Application of Student Competency Growth Support System <br>Chung-Ang University</td>
+    <td width="25%">Jul. 2022<br>Grand Prize</td>
+  </tr>
+  <tr>
+    <td>Commendation of Exemplary Disabled Student Helpers<br>Chung-Ang University</td>
+    <td width="25%">Jun. 2022<br></td>
+  </tr>
+  <tr>
+    <td>KUM Mileage Scholarship<br>Konkuk University</td>
+    <td width="25%">Dec. 2020<br></td>
+  </tr>
+  <tr>
+    <td>Chunman Scholarship<br>Chunman Scholarship Foundation</td>
+    <td width="25%">Dec. 2019<br></td>
   </tr>
 </table>
 
@@ -86,10 +116,6 @@ TeX, Adobe Illustrator, Adobe Photoshop, Hancom Office, MS Office
     <td width="25%">Sep. 2024<br></td>
   </tr>
   <tr>
-    <td>Google Analytics Certification<br>Google</td>
-    <td width="25%">Feb. 2024<br></td>
-  </tr>
-  <tr>
     <td>Advanced Data Analytics Semi-Professional<br>Korea Data Agency</td>
     <td width="25%">Mar. 2023<br></td>
   </tr>
@@ -108,5 +134,13 @@ TeX, Adobe Illustrator, Adobe Photoshop, Hancom Office, MS Office
   <tr>
     <td>Graphic Technology Qualification Level-I<br>Korea Productivity Center</td>
     <td width="25%">Sep. 2020<br></td>
+  </tr>
+</table>
+
+### Military Service
+<table>
+  <tr>
+    <td>Republic of Korea Army<br>Intelligence Soldier</td>
+    <td width="25%">Jul. 2022 – Jan. 2024<br></td>
   </tr>
 </table>

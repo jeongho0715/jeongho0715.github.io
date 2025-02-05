@@ -55,7 +55,7 @@ TeX, Adobe Illustrator, Adobe Photoshop, Hancom Office, MS Office
   </tr>
   <tr>
     <td>Gyeonggi-do Youth Volunteers Program<br>Gyeonggi-do Volunteer Center</td>
-    <td>Feb. 2024 - Dec. 2024<br></td>
+    <td>Feb. 2024 - Dec. 2025<br></td>
   </tr>
   <tr>
     <td>Forest Big Data Analysis and Utilization Education<br>Korea Forestry Promotion Institute, Forest Big Data Exchange Platform</td>
@@ -79,7 +79,7 @@ TeX, Adobe Illustrator, Adobe Photoshop, Hancom Office, MS Office
   </tr>
   <tr>
     <td>Disabled Student Helpers<br>Chung-Ang University</td>
-    <td>Mar. 2021 - Jun. 2021<br></td>
+    <td>Mar. 2021 - Jun. 2021,<br>Mar. 2024 - Jun. 2024</td>
   </tr>
   <tr>
     <td>Student Council<br>Department of Applied Statistics, Chung-Ang University </td>

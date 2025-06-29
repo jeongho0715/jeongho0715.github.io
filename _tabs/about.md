@@ -36,22 +36,37 @@ Visual Studio Code, Google Colab, R Studio, JetBrain Intellij IDEA, Pycharm, SQL
 Github, Onedrive, Google Docs, Notion, Discord, Slack
 
 - Others  
-TeX, Adobe Illustrator, Adobe Photoshop, Hancom Office, MS Office
+LaTeX, Adobe Illustrator, Adobe Photoshop, Hancom Office, MS Office
 
+### Projects
+<table>
+  <tr>
+    <td>Context-Aware Sentence Ordering AI Competition<br><a href="https://dacon.io/competitions/official/236489/overview/description" target="_blank">DACON</a></td>
+    <td>Mar. 2025 - Jun. 2025<br>Team Project, Python</td>
+  </tr>
+  <tr>
+    <td>Crowd Density Prediction<br><a href="https://www.kaggle.com/competitions/kaggle-olympiad-crowd-density-prediction" target="_blank">Kaggle</a></td>
+    <td>Mar. 2025 - Jun. 2025<br>Team Project, Python</td>
+  </tr>
+  <tr>
+    <td>ERP System Implementation Project<br><a href="https://github.com/CAU-DB/ERP-Micro" target="_blank">Github</a></td>
+    <td>Nov. 2024 - Dec. 2024<br>Team Project, MySQL</td>
+  </tr>
+</table>
 
 ### Extracurricular Activities
 <table>
   <tr>
-    <td>Hongong Study Group<br>Hanbit Media, Inc.</td>
-    <td>Jan. 2025 - Feb. 2025<br>Machine Learning + <br>Deep Learning</td>
+    <td>Undergraduate Research Student<br><a href="https://sites.google.com/view/cwlim" target="_blank">Chung-Ang University AI Stat Lab</a></td>
+    <td>Feb. 2025 -<br></td>
   </tr>
   <tr>
-    <td>Data Analytics Modeling Class(ML1), (ML2)<br>Big Data Analytics Association</td>
+    <td>Data Analytics Modeling Class(ML1), (ML2)<br><a href="https://bdaprogram.oopy.io/" target="_blank">Big Data Analytics Association</a></td>
     <td>Sep. 2024 - Feb. 2025<br></td>
   </tr>
   <tr>
     <td>Let’s AI 2024<br>Naver Connect Foundation</td>
-    <td>May. 2024 - Jun.2024<br>Booster</td>
+    <td>May. 2024 - Jun. 2024<br>Booster</td>
   </tr>
   <tr>
     <td>Gyeonggi-do Youth Volunteers Program<br>Gyeonggi-do Volunteer Center</td>

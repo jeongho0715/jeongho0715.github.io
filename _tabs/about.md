@@ -17,8 +17,6 @@ order: 4
   }
 </style>
 
-## Welcome!
-I'm a student majoring in statistics. I haven't decided what I'm going to do yet, but I'm working hard to explore what I'm going to do. I want to experience as many things as I can in my life.
 
 ## Curriculum Vitae
 
@@ -37,6 +35,14 @@ Github, Onedrive, Google Docs, Notion, Discord, Slack
 
 - Others  
 LaTeX, Adobe Illustrator, Adobe Photoshop, Hancom Office, MS Office
+
+### Conferences
+<table>
+  <tr>
+    <td>Context-Aware Sentence Ordering in Korean Using Pairwise Classification and Permutation Scoring<br><a href="https://www.kdms.or.kr/bbs/board.php?bo_table=notice&wr_id=42n" target="_blank">Korea Data Mining Society</a></td>
+    <td>Aug. 2025<br>Poster Presenter</td>
+  </tr>
+</table>
 
 ### Projects
 <table>
@@ -144,14 +150,14 @@ LaTeX, Adobe Illustrator, Adobe Photoshop, Hancom Office, MS Office
 
 ### Certificates
 <table>
-  <tr>
+<!--  <tr>
     <td>First Class Amateur Radio Operator<br>Korea Communications Agency</td>
     <td>Jan. 2025<br></td>
   </tr>
   <tr>
     <td>Restricted Operator's Certificate(Land Class)<br>Korea Communications Agency</td>
     <td>Jan. 2025<br></td>
-  </tr>
+  </tr>-->
   <tr>
     <td>Data Architecture Semi-Professional<br>Korea Data Agency</td>
     <td>Oct. 2024<br></td>
@@ -164,10 +170,10 @@ LaTeX, Adobe Illustrator, Adobe Photoshop, Hancom Office, MS Office
     <td>Advanced Data Analytics Semi-Professional<br>Korea Data Agency</td>
     <td>Mar. 2023<br></td>
   </tr>
-  <tr>
+<!--  <tr>
     <td>Driver’s License 1st Class (Ordinary)<br>Commissioner of Gyeonggi Nambu Provincial Police Agency</td>
     <td>Sep. 2021<br></td>
-  </tr>
+  </tr>-->
   <tr>
     <td>Graphic Technology Qualification illust Level-I<br>Korea Productivity Center</td>
     <td>Feb. 2021<br></td>
